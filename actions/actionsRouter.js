@@ -1,7 +1,6 @@
 const express = require("express");
 
 const Actions = require("./actionModel");
-const Projects = require("../projects/projectModel");
 const router = express.Router();
 
 // GET all actions
